@@ -7,7 +7,7 @@
     "eject": "expo eject",
     "postinstall": "remotedev-debugger — hostname localhost— port 5678— injectserver"
   },
-    "remotedev": {
+  "remotedev": {
     "hostname": "localhost",
     "port": 5678
   },
